@@ -9,5 +9,3 @@ Flixmo 21 adalah layanan penyedia streaming berbasis langganan yang memungkinkan
 1. menonton film 
 2. Film yang tersedia film terbaru
 
-### Screenshot Project
-![menu-user](/assets/images/screenshot/menu-user.png)
